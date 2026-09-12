@@ -8,3 +8,11 @@ Resource Group: LAB-RG
     |-- Container: labcontainer
         |-- Blob: prueba-azure.txt
 ```
+## Lab Objectives
+- Create an Azure Storage Account
+- Create a Private Blob Container
+- Upload a Blob
+- Generate a SAS Token
+- Test Secure access using SAS URL
+- Enable Soft Delete for Blob Protection
+- Review Costs using Azure Cost Management
