@@ -16,3 +16,10 @@ Resource Group: LAB-RG
 - Test Secure access using SAS URL
 - Enable Soft Delete for Blob Protection
 - Review Costs using Azure Cost Management
+## Tecnologies Used
+- Microsoft Azure
+- Azure Storage Account
+- Azure Blob Storage
+- Shared Access Signature
+- Azure Soft Delete
+- Azure Cost Management
