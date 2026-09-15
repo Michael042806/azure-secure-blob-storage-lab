@@ -60,7 +60,7 @@ Resource Group: LAB-RG
 ## 8. Clean Up Resourses
 - Delete Blob: prueba-azure.txt
 - Delete Container: labcontainer
-- Delete Storage Account: m-labstorage11
+- Delete Storage Account: m-labstorages11
 - Final Verification: LAB-RG contains 0 Resources
 - Purpose: Avoid unnesessary Azure cost after completing the lab
 ## Key Learnings
